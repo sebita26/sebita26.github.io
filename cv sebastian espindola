@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="x-AU-compatible" content="IE= edge">
+        <meta name="viewport" content="width=device-width, initial-scare=1.8">
+        <link rel= "stylesheet" href= "# style.css">
+
+        <title>CV</title>
+    </head>
+    <body>
+        <div>
+            <img src ="seba.jpg.jpeg"id ="seba.jpg" align ="right" widt= "170" height ="190">
+            
+
+
+<div class="contenedor">
+</div class="">
+    <h2 align ="center">Sebastian ricardo Alberto Espindola</h2>
+    <fieldset>
+        <legend>Datos Personales</legend>
+        <ul>
+        <h2> Datos Personales</h2>
+            <ul>
+        
+        <li>Nombre y Apellido: Sebastián Ricardo Alberto Espindola</li>
+        <li>Domicilio: B° Paraná V T21 D24 -Paraná – Entre Ríos – Argentina</li>
+        <li>Teléfonos de contacto: 343-5304073</li>
+        <li>E-mail: sebaricardo59@gmail.com</li>
+    </ul>
+</div> 
+<fieldset>
+    <legend> Formación / estudios</legend>
+    <ul>
+    ><h2>Formación / estudios</h2>
+    <ul>
+
+    <li>Título Nivel Primario</li>
+    
+    <li>Paraná – Entre Ríos Escuela Primaría N° 197, Héroes de Malvinas.</li>
+<li>Título Nivel Secundario</li>
+
+<li>Título de Bachiller en Orientación en Dibujo Publicitario
+    Paraná – Entre Ríos Escuela Secundaría José Martí, Paraná Entre Ríos.</li>
+<p class="borde contenedor"></p>
+<div>
+    <fieldset>
+        <legend> Experiencia Laboral</legend>
+        <ul>
+        
+   <li>Nombre de la empresa – Cartocor S.A. Div. Paraná:
+            (2006-2007)
+            Operario.
+            Estando en planta en pegado manuales
+            un mes. Para luego pasar a una Impresora (W 1600), como
+            paletizadora tres meses. Quedando como 3a ayudantes de dicha
+            máquina.</li>
+     <li>Nexo Aberturas, 2015 hasta 2018.</li>
+      <li>Controlador (seguridad de boliche)</li>
+
+   </ul>
+</div>
+<p class="borde"></p>
+</div>
+<h2>Conocimientos complementarios</h2>
+><UL>
+    <li> Cursos aprobados:</li>
+    <li>Auxiliar en Farmacia – Durac. 144HS. – Unidad Popular Elio C.
+        Leyes de Paraná. Reconocido por el Gobierno de Entre Ríos
+        s/Decreto N° 7190 M.G.J.E. 06/12/94. – Paraná, diciembre de 2018.</li>
+        <LI>Control de Admisión y Permanencia. Ley Provincial N° 10517-
+            Adhesión Ley Nacional N° 4208751.-Parana, diciembre de 2019
+            Participación en Jornada de RCP con manejo de DEA, obstrucción
+            de vía aérea y prácticas profesionalizantes, bajo las normativas
+            vigentes de la Ley de Control, Admisión y Permanencia. Steward
+            CAP – 27 de septiembre de 2019, Paraná.</LI>
+            <li>Programa Diplomado Administrativo Digital – Durac. 40HS.
+                Certificado por
+                Universidad de Buenos Aires, Facultad de Ciencias Económicas. -Paraná,
+                diciembre de 2019.</li>
+            </div>  
+            <h2>Conocimientos de informática</h2>
+            <ul>
+                <li>Programas manejados: Word, Excel, PowerPoint, Photoshop.</li>
+            </div>
+            <h2>Otros datos personales</h2>
+            <ul>
+                <li>Nacionalidad: Argentina</li>
+                <li>Estado Civil:   soltero </li> 
+                <li>Fecha de nacimiento y edad: 36 años. - 26/01/1984 // Paraná-Entre Ríos.</li>
+            
+            
+
+    </body>
+</html>
+         
